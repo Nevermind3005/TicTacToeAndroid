@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="close_button">Close</string>
+    <string name="x_winner">X Won</string>
+    <string name="o_winner">O Won</string>
+    <string name="tie_winner">Tie</string>
+    <string name="player_x">X</string>
+    <string name="player_o">O</string>
+    <string name="player_turn">Turn: </string>
+    <string name="x_player_name">X player name: </string>
+    <string name="y_player_name">Y player name: </string>
+    <string name="name_set">Set name</string>
+    <string name="set_player_names_button">Set names</string>
+</resources>
